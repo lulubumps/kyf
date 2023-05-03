@@ -12,7 +12,7 @@ This project is inspired by the link shortener better known as "Linktr.ee". This
 
 ### Publication date and extra data
 * Wednesday, May 03, 2023.
-* Made with love by [Lulubumps](https://github.com/lulubumps).
+* Made with love by 📷[Cristian Vieyra](https://www.behance.net/cristianvieyra) & 💻[Lulubumps](https://github.com/lulubumps).
 
 ## Facts
 If you need the original code, you can use the [Linkbumps](https://github.com/lulubumps/Linkbumps) proyect, as it is documented and ready to use in your own way.
