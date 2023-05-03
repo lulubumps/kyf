@@ -38,7 +38,7 @@ body {
 
 .link {
     display: block;
-    background-color: #222087;
+    background-color: #B2508F;
     color: #fff;
     font-family: var(--font);
     text-align: center;
@@ -53,8 +53,29 @@ body {
 
 .link:hover {
     background-color: #fff;
-    color: rgb(66, 110, 255);
-    border: solid #0070cd;
+    color: #424293;
+    border: solid #424293;
+}
+
+.link2{
+    display: block;
+    background-color: #424293;
+    color: #fff;
+    font-family: var(--font);
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 17px;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: all .25s cubic-bezier(.08, .59, .29, .99);
+    border: solid var(--accentColor) 2px;
+}
+
+.link2:hover {
+    background-color: #fff;
+    color: #B2508F;
+    border: solid #B2508F;
 }
 
 .footer {
